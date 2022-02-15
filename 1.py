@@ -1,2 +1,0 @@
-inpu = input()
-print(inpu)
