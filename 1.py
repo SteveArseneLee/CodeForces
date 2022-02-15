@@ -1,1 +1,2 @@
-dfdf
+inpu = input()
+print(inpu)
